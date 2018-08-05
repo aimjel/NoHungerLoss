@@ -6,7 +6,7 @@
  * Time: 6:04 PM
  */
 
-namespace NoHungerLoss;
+namespace Angel\NoHungerLoss;
 
 
 use pocketmine\command\Command;
