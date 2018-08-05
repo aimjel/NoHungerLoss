@@ -2,7 +2,7 @@ name: NoHungerLoss
 api: 3.0.0
 version: 1.0.0
 author: Angel
-main: NoHungerLoss\Main
+main: Angel\NoHungerLoss\Main
 commands:
    hunger:
       description: Set positions for no hunger zone!
