@@ -4,10 +4,10 @@ version: 1.0.0
 author: Angel
 main: Angel\NoHungerLoss\Main
 commands:
-   hunger:
+   hunger.command:
       description: Set positions for no hunger zone!
       default: false
 
 permissions:
-   hunger.cmd:
+   hunger.commmand:
       description: Access hunger command to select positions!
