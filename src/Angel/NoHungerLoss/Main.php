@@ -89,7 +89,7 @@ class Main extends PluginBase implements Listener {
 			return false;
 		}
 
-		if(!$sender->hasPermission('fly.command') || !$sender->isOp()){
+		if(!$sender->hasPermission('hunger.command') || !$sender->isOp()){
 			$sender->sendMessage(TextFormat::RED."You don't have permission to use this command.");
 			return false;
 		}
